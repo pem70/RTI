@@ -1,0 +1,20 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local generated outputs
+out_csv/
+
+# Local scripts/data
+*.ps1
+*.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
